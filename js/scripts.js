@@ -1,2 +1,2 @@
-// Content Interaction
-console.log('Boo!');
+// Scripts
+$('h1').lettering();
