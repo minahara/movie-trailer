@@ -1,20 +1,3 @@
-/* Content Styling */
-h1 {
-  color: red;
-  font-size: 6em;
-  text-align: center;
-  text-transform: uppercase;
-}
+body{background:pink}h1{text-transform:uppercase}
 
-.char1 {
-  color: green;
-}
-
-.char2 {
-  color: blue;
-  letter-spacing: -8px;
-}
-
-.char3 {
-  color: violet;
-}
+/*# sourceMappingURL=styles.css.map */
