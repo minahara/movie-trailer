@@ -9,6 +9,8 @@ body {
     background: $primary-color;
 }
 
+
+
 .one, .two {
     color: $secondary-color;
     text-align: center;
@@ -21,7 +23,16 @@ body {
     text-transform: uppercase;
 }
 
+p {
+    color: $secondary-color;
+}
 
+a.ticket,
+a.more
+{
+    text-decoration: none;
+    color: $secondary-color;
+}
 
 video { 
   display: block;
