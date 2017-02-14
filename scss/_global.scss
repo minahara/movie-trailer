@@ -23,20 +23,22 @@ body {
     text-transform: uppercase;
 }
 
-article {
+main article p {
     color: $secondary-color;
 }
 
 a:link{
     text-decoration: none;
-    color:red;
+    color: $secondary-color;
 }
 a:hover {
-    color: lightgoldenrodyellow;
+    color: #efebad;
+    transform: scale(1.2);
+    transition: transform .75s;
 }
 a:visited{
-    color: palevioletred;
-
+    color: #B4A388;
+}
 
 
 video { 
