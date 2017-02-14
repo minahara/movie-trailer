@@ -27,8 +27,7 @@ p {
     color: $secondary-color;
 }
 
-a.ticket,
-a.more
+a:link
 {
     text-decoration: none;
     color: $secondary-color;
