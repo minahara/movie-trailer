@@ -3,14 +3,21 @@
 
 /* Color palette*/
 $primary-color: pink;
-$secondary-color: Grey;
+$secondary-color: #545454;
 
 body {
-    background: pink;
+    background: $primary-color;
 }
 
-h1 {
-    
+.one, .two {
+    color: $secondary-color;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.a, .b {
+    color: $secondary-color;
+    text-align: center;
     text-transform: uppercase;
 }
 
