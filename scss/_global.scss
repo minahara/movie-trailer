@@ -23,19 +23,19 @@ body {
     text-transform: uppercase;
 }
 
-p {
+article {
     color: $secondary-color;
 }
 
-a:link
-{
+a:link{
     text-decoration: none;
-    color: $secondary-color;
+    color:red;
 }
 a:hover {
-    color: palevioletred;
+    color: lightgoldenrodyellow;
 }
-
+a:visited{
+    color: palevioletred;
 
 
 
