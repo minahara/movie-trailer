@@ -2,8 +2,13 @@
 
 
 /* Color palette*/
-$primary-color: teal;
+$primary-color: pink;
 $secondary-color: #545454;
+
+
+body {
+    background: $primary-color;
+}
 
 .one, .two {
     color: $secondary-color;

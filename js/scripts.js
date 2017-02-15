@@ -1,11 +1,10 @@
-// Scripts
-//$('h1').lettering();
+// Lettering JS
+$('h1').lettering();
 
 
-//$('video').mediaElement();
+// Video Player
+$('video').mediaelementplayer();
 
-
-//$('h1').fitText();
 
 /* 
 $('h1').arctext({
