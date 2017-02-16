@@ -6,9 +6,11 @@ $('h1').lettering();
 $('video').mediaelementplayer();
 
 
- 
+//arctext 
 $('h1').arctext({
   dir : 1,
   rotate: true,
   radius: 500
 });
+
+

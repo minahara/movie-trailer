@@ -17,6 +17,9 @@ body {
 
     
 }
+*//     white-space: nowrap;    //*
+
+
 
 .a, .b {
     color: $secondary-color;
@@ -33,6 +36,7 @@ a:link{
     color: $secondary-color;
 }
 li {
+    margin-left: 4em;
   list-style-type: square;
   color:  $secondary-color;
   
@@ -46,6 +50,10 @@ a:visited{
     color: #B4A388;
 }
 
+footer{
+    color: $secondary-color;
+    opacity: 0.5;
+}
 
 video { 
   display: block;
