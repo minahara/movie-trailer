@@ -14,6 +14,8 @@ body {
     color: $secondary-color;
     text-align: center;
     text-transform: uppercase;
+
+    
 }
 
 .a, .b {
@@ -29,6 +31,11 @@ main article p {
 a:link{
     text-decoration: none;
     color: $secondary-color;
+}
+li {
+  list-style-type: square;
+  color:  $secondary-color;
+  
 }
 a:hover {
     color: #efebad;
